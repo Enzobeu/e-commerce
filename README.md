@@ -48,5 +48,6 @@ Plusieurs améliorations ont été apportées pour résoudre les problèmes d'af
 4. **Vérification de l'existence des éléments DOM** : Protection contre les erreurs liées à des éléments manquants
 5. **Logs de débogage** : Ajout de messages de log détaillés pour suivre l'exécution du code
 
+### Lien vers le projet : https://enzobeu.github.io/e-commerce/
 
 *Projet réalisé dans le cadre des travaux pratiques R209*
